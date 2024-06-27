@@ -1,4 +1,3 @@
-package Striver;
 import java.util.*;
 public class Sorting {
     /*private static void swap(int a, int b) {
